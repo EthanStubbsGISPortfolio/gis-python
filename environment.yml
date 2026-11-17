@@ -1,0 +1,14 @@
+name: gis
+channels:
+  - conda-forge
+dependencies:
+  - rioxarray
+  - matplotlib
+  - python=3.12
+  - geopandas
+  - rasterio
+  - contextily
+  - requests
+  - jupyter
+  - ipykernel
+prefix: C:\Users\estub\miniforge3\envs\gis
